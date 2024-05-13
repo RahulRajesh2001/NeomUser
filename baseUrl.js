@@ -1,1 +1,1 @@
-export const baseUrl="http://theneom.shop"
+export const baseUrl="https://theneom.shop"
